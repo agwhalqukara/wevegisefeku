@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://wevegisefeku.pages.dev/sitemap.xml
